@@ -27,3 +27,5 @@ class Student(User):
    def __init__(self,name=None,email=None, id=None, score=name):
     super().__init__(name,email)
 
+
+
